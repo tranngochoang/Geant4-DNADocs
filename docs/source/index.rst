@@ -20,3 +20,8 @@ Contents
 
    usage
    api
+   Physics 
+   Physico-chemistry 
+   Chemistry 
+   Molecular geometries
+   

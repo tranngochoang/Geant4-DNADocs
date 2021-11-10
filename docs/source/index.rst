@@ -18,8 +18,7 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+
    Physics 
    Physico-chemistry 
    Chemistry 

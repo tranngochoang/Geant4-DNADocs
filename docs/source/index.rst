@@ -16,3 +16,12 @@ The Geant4 general purpose particle-matter Monte Carlo simulation toolkit is bei
     getting-started/Citations
     getting-started/License
    
+.. toctree::
+    :maxdepth: 1
+    :caption: Geometries
+
+    Geometries/Intro
+    Geometries/Cells
+    Geometries/DNAmodels
+    Geometries/Nucleus
+    Geometries/Other

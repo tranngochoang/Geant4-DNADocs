@@ -5,7 +5,7 @@ The Geant4 general purpose particle-matter Monte Carlo simulation toolkit is bei
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: Getting Started
 
     getting-started/Introduction
